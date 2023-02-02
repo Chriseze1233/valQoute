@@ -205,6 +205,10 @@ textarea {
     margin-top: .5em;
 }
 
+.iconCont {
+display: block;
+}
+
 .iconCont:nth-child(1) {
     color: #0073FF;
 }
